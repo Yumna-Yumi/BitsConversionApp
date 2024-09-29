@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#6200EA</color> <!-- A vibrant purple color -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- A light gray background -->
+    <color name="primaryTextColor">#212121</color> <!-- Dark text color -->
+    <color name="secondaryTextColor">#757575</color> <!-- Lighter text color -->
+</resources>
